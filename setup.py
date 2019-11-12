@@ -7,7 +7,7 @@ setup(name='django-handy-converters',
         'handy_converters'
       ],
       install_requires=[
-        'django<=2.2.6',
+        'django>=2.2.6',
       ],
       include_package_data=True,
       zip_safe=False)
